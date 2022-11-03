@@ -210,3 +210,18 @@ nav ul li{
     }
     
 }
+@media only screen and (max-width: 415px){
+    .icons{
+        margin-top: 37px;
+        font-size: xx-small; 
+    }
+    .masterSongName{
+        font-size: small;
+    }
+}
+@media only screen and (max-width: 905px){
+    .icons{
+        margin-top: 50px;
+        font-size:small; 
+    }
+}
